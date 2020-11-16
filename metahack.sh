@@ -63,7 +63,7 @@ fi
 
 rm $msfpath/$msfvar.tar.gz
 
-cd ${PREFIX}/bin && curl -LO https://hax4us.github.io/files/msfconsole && chmod +x msfconsole
+cd ${PREFIX}/bin && curl -LO https://github.com/rixon-cochi/rixon-cochi/blob/main/msfconsole && chmod +x msfconsole
 ln -sf $(which msfconsole) $PREFIX/bin/msfvenom
 
 echo "you can use msfvenom or msfconsole rather than ./msfvenom or ./msfconsole."
