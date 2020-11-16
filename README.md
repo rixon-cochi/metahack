@@ -27,6 +27,8 @@
 
 * `apt install curl`
 
+* `pkg install repo`
+
 * `pkg install unstable-repo`
 
 * `git clone https://github.com/rixon-cochi/metahack.git`
