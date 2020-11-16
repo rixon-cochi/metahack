@@ -44,7 +44,7 @@ find "$PREFIX"/lib/ruby/gems -type f -iname \*.so -print0 | xargs -0 -r termux-e
 echo "Creating database"
 
 mkdir -p $msfpath/metasploit-framework/config && cd $msfpath/metasploit-framework/config
-curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/database.yml
+curl -LO https://github.com/rixon-cochi/metahack/blob/main/database.yml
 
 mkdir -p $PREFIX/var/lib/postgresql
 pg_ctl -D "$PREFIX"/var/lib/postgresql stop > /dev/null 2>&1 || true
