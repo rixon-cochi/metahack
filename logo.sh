@@ -1,7 +1,6 @@
 #!/bin/bash
 # code by tech cochi
 # subscribe my channel
-clear
 
 echo -e "\e[34m  __  __ _____ _____  _ \e[0m\e[91m    _   _    _    ____ _  __ \e[0m"
 echo -e "\e[34m |  \/  | ____|_   _|/ \ \e[0m\e[91m  | | | |  / \  / ___| |/ / \e[0m"
