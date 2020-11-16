@@ -17,6 +17,25 @@
 <img width="150%" src="https://github.com/rixon-cochi/rixon-cochi/blob/main/20201116_190334.png"/>
 </p>
 
+## INSTALLING STEPS
+
+* `apt update`
+
+* `apt upgrade`
+
+* `apt install git`
+
+* `pkg install unstable-repo`
+
+* `git clone https://github.com/rixon-cochi/metahack.git`
+
+* `ls`
+
+* `cd metahack`
+
+* `bash install.sh`
 # CONTACT
 [![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/techcochihack)
 [![Blogspot](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://techcoch.blogspot.com)
+[![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
+[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
