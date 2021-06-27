@@ -10,7 +10,7 @@ bash load.sh
 echo ""
 echo ""
 sleep 3
-xdg-open https://m.youtube.com/channel/UCiE0p7rXWBEncUVsLo1C5Xg
+xdg-open https://m.youtube.com/channel/HYDRAGAMING4U
 echo " PLEASE WAIT 20 SECOND "
 sleep 20
 clear
